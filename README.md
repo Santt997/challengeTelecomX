@@ -58,11 +58,11 @@ Este proyecto es parte de un desafío de Data Science y es un trabajo en progres
 
 ## 📄 Licencia
 
-*(Considera añadir una sección de licencia si aplicara a tu proyecto).*
+*Sin licencia (free and open source)*
 
 ## 📧 Contacto
 
-Si tienes alguna pregunta o comentario, no dudes en contactarme.
+Si tienes alguna pregunta o comentario, no dudes en contactarme a santiago.burastero@gmail.com.
 
 ---
 
